@@ -1,19 +1,19 @@
 {
   "dependencies": {
     "com.meta.xr.mrutilitykit": {
-      "version": "76.0.0",
+      "version": "76.0.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ai.navigation": "1.1.4",
         "com.unity.nuget.newtonsoft-json": "3.0.2",
-        "com.meta.xr.sdk.core": "76.0.0",
+        "com.meta.xr.sdk.core": "76.0.1",
         "com.unity.textmeshpro": "3.0.6"
       },
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.core": {
-      "version": "76.0.0",
+      "version": "76.0.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
