@@ -27,7 +27,7 @@ More information on MR Utility Kit can be found on our [developer website](https
 - [Destructible Mesh](./Assets/MRUKSamples/DestructibleMesh): A scene showing how to spawn a global mesh that can be segmented, usually used to create destructible environments.
 - [Environment Panel Placement (Beta)](./Assets/MRUKSamples/Experimental/EnvironmentPanelPlacement): A scene showing how to use EnvironmentRaycastManager to attach virtual panel to the physical environment.
 - [Space Map](./Assets/MRUKSamples/SpaceMap): A scene with the SpaceMap prefab added. It creates a texture which represents the room with a color gradient according to the settings of the prefab.
-- [Keyboard Tracking](./Assets/MRUKSamples/AnchorTracker): A scene demonstrating generic keyboard detection and tracking.
+- [Keyboard Tracking](./Assets/MRUKSamples/KeyboardTracker): A scene demonstrating generic keyboard detection and tracking.
 - [Bouncing Ball](./Assets/MRUKSamples/BouncingBall): A scene showing virtual balls interacting with the physical environment.
 
 More information on all samples can be found on our [developer website](https://developers.meta.com/horizon/documentation/unity/unity-mr-utility-kit-samples).

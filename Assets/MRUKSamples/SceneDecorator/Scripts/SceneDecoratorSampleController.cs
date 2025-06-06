@@ -101,7 +101,6 @@ namespace Meta.XR.MRUtilityKitSamples.SceneDecoratorSample
             MRUK.Instance.RoomRemovedEvent.AddListener(ReceiveRemovedRoom);
             MRUK.Instance.RoomUpdatedEvent.AddListener(ReceiveUpdatedRoom);
             MRUK.Instance.SceneLoadedEvent.AddListener(UpdateAfterEvent);
-
         }
 
         private void OnDisable()

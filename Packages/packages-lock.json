@@ -1,19 +1,19 @@
 {
   "dependencies": {
     "com.meta.xr.mrutilitykit": {
-      "version": "76.0.1",
+      "version": "77.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ai.navigation": "1.1.4",
         "com.unity.nuget.newtonsoft-json": "3.0.2",
-        "com.meta.xr.sdk.core": "76.0.1",
+        "com.meta.xr.sdk.core": "77.0.0",
         "com.unity.textmeshpro": "3.0.6"
       },
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.core": {
-      "version": "76.0.1",
+      "version": "77.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -219,7 +219,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.oculus": {
-      "version": "4.1.2",
+      "version": "4.2.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
